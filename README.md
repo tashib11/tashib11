@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate about Machine Learning, Image Processing, with strong fundamentals in Data Structures, OOP, and Computer Networks.
+Passionate about Machine Learning, Image Processing,\n with strong fundamentals in Data Structures, OOP, and Computer Networks.
 
 
 ## 🌐 Socials:
